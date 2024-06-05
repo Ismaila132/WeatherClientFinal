@@ -1,0 +1,1 @@
+C:\Projmaui7\part4-exercise-finish\WeatherClient.csproj;x64
